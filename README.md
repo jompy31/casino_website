@@ -3,6 +3,8 @@
 ## Overview
 TWOWAGER is an online platform providing access to sportsbooks, casinos, poker, and horse betting. It features multiple gaming categories including sports, casino games, and horse racing. This repository hosts the code for the TWOWAGER website, built using React.js and React Router.
 
+[**Explore the Demo Page**](https://twowager-shoxcomputer.netlify.app/)
+
 ---
 
 ## Features
